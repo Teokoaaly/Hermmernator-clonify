@@ -1,5 +1,7 @@
 # MyOwnClone — SaaS Multi-tenant AI Platform
 
+**Repository:** https://github.com/Teokoaaly/MyOwnClone
+
 Plataforma SaaS multi-tenant que permite crear "clones" de IA con personalidad, modos (teach/support/sales), email triage con IA, booking y billing Stripe.
 
 ## Arquitectura

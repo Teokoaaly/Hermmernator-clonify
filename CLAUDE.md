@@ -1,5 +1,7 @@
 # CLAUDE.md — MyOwnClone
 
+**Repository:** https://github.com/Teokoaaly/MyOwnClone
+
 **Proyecto:** Plataforma SaaS multi-tenant con clones IA, email triage, booking y billing.
 
 ## Arquitectura
